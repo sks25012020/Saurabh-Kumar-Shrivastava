@@ -7,14 +7,10 @@
 <h1>How to make Instant Coffee</h1>
 
 <p><h2>Ingredients</h2></p>
-
 1. 1 cup of hot water
-
 2. 1 to 2 teaspoons of instant coffee</br>
-
 3. 1 to 2 teaspoons of sugar (optional)
-
-<4. Milk or creamer (optional)
+4. Milk or creamer (optional)
 
 <p><h2>Procedure</h2></p>
 
